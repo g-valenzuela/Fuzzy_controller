@@ -1,6 +1,6 @@
 # Sistema de control difuso
 
-_En este respositorrio se pueden encontrar los archivos y códigos de simulación realizados en el proyecto de titulación **"Desarrollo de un sistema de control basado en lógica difusa en un ordenador de placa reducida"**. Este proyecto corresponde a la actividad de titulación de **Gustavo Enrique Valenzuela Fuentealba** para optar al título de Ingeniero Civil Mecánico de la **Universidad de La Frontera**. El informe y presentación del proyecto se encuentran en **/Documentos/**_
+_En este respositorrio se pueden encontrar los archivos y códigos de simulación realizados en el proyecto de titulación **"Desarrollo de un sistema de control basado en lógica difusa en un ordenador de placa reducida"**. Este proyecto corresponde a la actividad de titulación de **Gustavo Valenzuela** para optar al título de Ingeniero Civil Mecánico de la **Universidad de La Frontera**. El informe y presentación del proyecto se encuentran en **/Documentos/**_
 
 ## Código MATLAB 
 
