@@ -34,7 +34,7 @@ x_1 = np.array([0.065751091003418,4.499999918447061,3.017834563310598e-05,1.2519
 x_2 = np.array([0.065999962502552,3.884999892217342,4.994046780049530e-05,0.009999738029963])
 
 Setpoint = np.array([65,80])  # Salida deseada (°C)
-hr = 2                        # Minutos
+hr = 2                        # Horas
 Time = 3600*hr                # Tiempo total de simulacion (s)
 n = round(Time/Ts)            # Numero de muestras
 
